@@ -1,15 +1,15 @@
 # Portafolio Web - Bootstrap
 
-INSTITUTO TECNOLÓGICO NACIONAL DE MÉXICO
-INSTITUTO TECNOLÓGICO DE OAXACA
-Ingeniería en Sistemas Computacionales
+INSTITUTO TECNOLÓGICO NACIONAL DE MÉXICO<br>
+INSTITUTO TECNOLÓGICO DE OAXACA<br>
+Ingeniería en Sistemas Computacionales<br>
 Programación Web
 
-Actividad 4 - Portafolio Web con Bootstrap
-Alumno: López Herrera Noel
-Docente: Adelina Martínez Nieto
-Grupo: 7SC
-Fecha de entrega:  07 de julio del 2026
+Actividad 4 - Portafolio Web con Bootstrap<br>
+Alumno: López Herrera Noel<br>
+Docente: Adelina Martínez Nieto<br>
+Grupo: 7SC<br>
+Fecha de entrega: 07 de julio del 2026
 
 🔗 **Ver Página en Vivo - GitHub Pages:** https://sonnx18.github.io/portafolio-web/
 🔗 **Ver Repositorio:** https://github.com/sonnx18/portafolio-web
